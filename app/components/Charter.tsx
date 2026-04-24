@@ -813,4 +813,4 @@ export default function App() {
       {showNotif&&<NotifPanel notifs={notifs} onClear={()=>setNotifs([])} onClose={()=>setShowNotif(false)} T={T}/>}
     </div>
   );
-}
+}// v9-viernes, 24 de abril de 2026, 10:46:07 CEST
